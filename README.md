@@ -245,7 +245,7 @@ Alert Message Sent
 
 ## 👩‍💻 Project Presented By
 
-### **CH LAKSHMI SWAMY**
+### **D ARUNTEJA**
 
 B.Tech Electronics and Communication Engineering (ECE)
 
